@@ -37,8 +37,6 @@ mission:
 ### 🧰 Skills & Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,github,vscode,figma" /> </p>
 
-### 📈 Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shivansh-sahu0&show_icons=true&theme=tokyonight" height="170"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivansh-sahu0&layout=compact&theme=tokyonight" height="170"> </p>
 
 ### 🎯 2025 Mini Goals
 - Create more interactive UI projects
