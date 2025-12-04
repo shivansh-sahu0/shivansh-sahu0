@@ -45,7 +45,7 @@ mission:
 - Develop Roblox games later ⚔️
 
 ### 🤝 Connect With Me
-<p align="center"> <a href="https://github.com/NoobSlayer2213"><img src="https://img.shields.io/badge/GitHub-shivansh--sahu0-black?style=for-the-badge&logo=github"></a> <a href="https://www.roblox.com/users/8465579525/profile"><img src="https://img.shields.io/badge/ROBLOX-NoobSlayer-red?style=for-the-badge&logo=roblox"></a> </p>
+<p align="center"> <a href="https://github.com/NoobSlayer2213"><img src="https://img.shields.io/badge/GitHub-NoobSlayer2213-black?style=for-the-badge&logo=github"></a> <a href="https://www.roblox.com/users/8465579525/profile"><img src="https://img.shields.io/badge/ROBLOX-NoobSlayer-red?style=for-the-badge&logo=roblox"></a> </p>
 
 
 
