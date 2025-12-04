@@ -1,7 +1,3 @@
-<!-- Futuristic Header -->
-<p align="center">
-  <img src="https://i.imgur.com/3Z3QZ2e.gif" width="250">
-</p>
 
 <h1 align="center">⚡ Noob Slayer ⚡</h1>
 <h3 align="center">Coder • UI Designer • Student • Still Leveling Up 🚀</h3>
@@ -51,8 +47,7 @@ mission:
 - Develop Roblox games later ⚔️
 
 ### 🤝 Connect With Me
-<p align="center"> <a href="https://github.com/shivansh-sahu0"><img src="https://img.shields.io/badge/GitHub-shivansh--sahu0-black?style=for-the-badge&logo=github"></a> <a href="https://www.roblox.com/users/"><img src="https://img.shields.io/badge/ROBLOX-NoobSlayer-red?style=for-the-badge&logo=roblox"></a> </p>
+<p align="center"> <a href="https://github.com/shivansh-sahu0"><img src="https://img.shields.io/badge/GitHub-shivansh--sahu0-black?style=for-the-badge&logo=github"></a> <a href="https://www.roblox.com/users/NoobSlayer_2213"><img src="https://img.shields.io/badge/ROBLOX-NoobSlayer-red?style=for-the-badge&logo=roblox"></a> </p>
 
-<p align="center"> <img src="https://i.imgur.com/94dWspA.gif" width="230"><br> <b>"I'm not the best — but every day, I'm better than yesterday."</b> </p>
 
 
